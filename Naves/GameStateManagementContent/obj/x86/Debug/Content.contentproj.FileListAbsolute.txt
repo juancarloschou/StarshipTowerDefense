@@ -1,0 +1,2 @@
+D:\XNA\GSMSample_4_0_Mango\GameStateManagementSample\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\XNA\manuales\ejemplos XNA\GSMSample_4_0_Mango\GameStateManagementSample\Content\obj\x86\Debug\ResolveAssemblyReference.cache

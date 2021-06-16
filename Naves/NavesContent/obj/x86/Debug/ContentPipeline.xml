@@ -1,0 +1,763 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Audio\laser_shot_01.wav</Source>
+      <Name>Audio\laser_shot_01</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Naves\Naves 55\Naves\Naves\bin\x86\Debug\Content\Audio\laser_shot_01.xnb</Output>
+      <Time>2011-11-01T20:00:30.2877525+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\metal_hit_01.wav</Source>
+      <Name>Audio\metal_hit_01</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Naves\Naves 55\Naves\Naves\bin\x86\Debug\Content\Audio\metal_hit_01.xnb</Output>
+      <Time>2011-11-01T19:58:11.0567349+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\hit_nave_01.wav</Source>
+      <Name>Audio\hit_nave_01</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Naves\Naves 55\Naves\Naves\bin\x86\Debug\Content\Audio\hit_nave_01.xnb</Output>
+      <Time>2008-07-23T23:03:06+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\pause.wav</Source>
+      <Name>Audio\pause</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Naves\Naves 55\Naves\Naves\bin\x86\Debug\Content\Audio\pause.xnb</Output>
+      <Time>2011-11-04T19:58:02.1614969+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\beep_01.wav</Source>
+      <Name>Audio\beep_01</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Naves\Naves 55\Naves\Naves\bin\x86\Debug\Content\Audio\beep_01.xnb</Output>
+      <Time>2011-11-07T23:48:19.4786205+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\tank_firing_01.wav</Source>
+      <Name>Audio\tank_firing_01</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Naves\Naves 55\Naves\Naves\bin\x86\Debug\Content\Audio\tank_firing_01.xnb</Output>
+      <Time>2011-11-19T13:42:48.4377916+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\explosion_canon_01.wav</Source>
+      <Name>Audio\explosion_canon_01</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Naves\Naves 55\Naves\Naves\bin\x86\Debug\Content\Audio\explosion_canon_01.xnb</Output>
+      <Time>2011-11-16T00:05:52.7884865+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\explosion_mediana_01.wav</Source>
+      <Name>Audio\explosion_mediana_01</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Naves\Naves 55\Naves\Naves\bin\x86\Debug\Content\Audio\explosion_mediana_01.xnb</Output>
+      <Time>2011-11-16T00:04:34.6783781+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\explosion_pequena_01.wav</Source>
+      <Name>Audio\explosion_pequena_01</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Naves\Naves 55\Naves\Naves\bin\x86\Debug\Content\Audio\explosion_pequena_01.xnb</Output>
+      <Time>2011-04-02T20:18:04+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\explosion_nave_01.wav</Source>
+      <Name>Audio\explosion_nave_01</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Naves\Naves 55\Naves\Naves\bin\x86\Debug\Content\Audio\explosion_nave_01.xnb</Output>
+      <Time>2008-07-27T23:56:28+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\laser_shot_02.wav</Source>
+      <Name>Audio\laser_shot_02</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Naves\Naves 55\Naves\Naves\bin\x86\Debug\Content\Audio\laser_shot_02.xnb</Output>
+      <Time>2011-11-01T20:00:36.7677635+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\misil_launch_01.wav</Source>
+      <Name>Audio\misil_launch_01</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Naves\Naves 55\Naves\Naves\bin\x86\Debug\Content\Audio\misil_launch_01.xnb</Output>
+      <Time>2011-12-12T00:15:57.7874816+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\reload_pistol_01.wav</Source>
+      <Name>Audio\reload_pistol_01</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Naves\Naves 55\Naves\Naves\bin\x86\Debug\Content\Audio\reload_pistol_01.xnb</Output>
+      <Time>2011-12-17T17:24:36.2869291+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\vender_01.wav</Source>
+      <Name>Audio\vender_01</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Naves\Naves 55\Naves\Naves\bin\x86\Debug\Content\Audio\vender_01.xnb</Output>
+      <Time>2011-12-21T00:52:28.2374694+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\battleship_01.png</Source>
+      <Name>Sprites\battleship_01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Naves\Naves 55\Naves\Naves\bin\x86\Debug\Content\Sprites\battleship_01.xnb</Output>
+      <Time>2011-10-31T23:23:32.7271369+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\blank.png</Source>
+      <Name>Sprites\blank</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Naves\Naves 55\Naves\Naves\bin\x86\Debug\Content\Sprites\blank.xnb</Output>
+      <Time>2011-11-22T20:33:11.2744416+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\Game_Over.jpg</Source>
+      <Name>Screens\Game_Over</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Naves\Naves 55\Naves\Naves\bin\x86\Debug\Content\Screens\Game_Over.xnb</Output>
+      <Time>2011-11-13T11:28:12.451081+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\Menu.jpg</Source>
+      <Name>Screens\Menu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Naves\Naves 55\Naves\Naves\bin\x86\Debug\Content\Screens\Menu.xnb</Output>
+      <Time>2011-11-06T05:17:53.6903802+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\Loading.jpg</Source>
+      <Name>Screens\Loading</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Naves\Naves 55\Naves\Naves\bin\x86\Debug\Content\Screens\Loading.xnb</Output>
+      <Time>2011-11-06T14:14:29.2308597+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fondo\Fondo_01.jpg</Source>
+      <Name>Fondo\Fondo_01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Naves\Naves 55\Naves\Naves\bin\x86\Debug\Content\Fondo\Fondo_01.xnb</Output>
+      <Time>2011-11-07T01:00:43.743635+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\torre_01.png</Source>
+      <Name>Sprites\torre_01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Naves\Naves 55\Naves\Naves\bin\x86\Debug\Content\Sprites\torre_01.xnb</Output>
+      <Time>2011-11-06T23:35:58.2867635+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\muro_01.png</Source>
+      <Name>Menu\muro_01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Naves\Naves 55\Naves\Naves\bin\x86\Debug\Content\Menu\muro_01.xnb</Output>
+      <Time>2011-11-09T03:18:00.6680116+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\torre_selected_01.png</Source>
+      <Name>Menu\torre_selected_01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Naves\Naves 55\Naves\Naves\bin\x86\Debug\Content\Menu\torre_selected_01.xnb</Output>
+      <Time>2011-11-09T19:26:27.5384784+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\CapaGameOver.png</Source>
+      <Name>Screens\CapaGameOver</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Naves\Naves 55\Naves\Naves\bin\x86\Debug\Content\Screens\CapaGameOver.xnb</Output>
+      <Time>2011-11-13T11:26:20.8016864+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\torre_simple_01.png</Source>
+      <Name>Sprites\torre_simple_01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Naves\Naves 55\Naves\Naves\bin\x86\Debug\Content\Sprites\torre_simple_01.xnb</Output>
+      <Time>2011-12-08T22:49:34.049066+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\helicoptero_01.png</Source>
+      <Name>Sprites\helicoptero_01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Naves\Naves 55\Naves\Naves\bin\x86\Debug\Content\Sprites\helicoptero_01.xnb</Output>
+      <Time>2011-11-21T23:25:03.4827378+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\boton_sell_01.png</Source>
+      <Name>Menu\boton_sell_01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Naves\Naves 55\Naves\Naves\bin\x86\Debug\Content\Menu\boton_sell_01.xnb</Output>
+      <Time>2011-11-26T13:44:20.2595729+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\boton_upgrade_01.png</Source>
+      <Name>Menu\boton_upgrade_01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Naves\Naves 55\Naves\Naves\bin\x86\Debug\Content\Menu\boton_upgrade_01.xnb</Output>
+      <Time>2011-11-26T13:41:27.3906854+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\tanque_01.png</Source>
+      <Name>Sprites\tanque_01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Naves\Naves 55\Naves\Naves\bin\x86\Debug\Content\Sprites\tanque_01.xnb</Output>
+      <Time>2011-11-27T12:22:35.7588488+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\garras_01.png</Source>
+      <Name>Sprites\garras_01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Naves\Naves 55\Naves\Naves\bin\x86\Debug\Content\Sprites\garras_01.xnb</Output>
+      <Time>2011-11-27T15:22:03.2437137+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\robot_01.png</Source>
+      <Name>Sprites\robot_01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Naves\Naves 55\Naves\Naves\bin\x86\Debug\Content\Sprites\robot_01.xnb</Output>
+      <Time>2011-11-27T17:56:40.1713236+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\nave_mercurio_01.png</Source>
+      <Name>Sprites\nave_mercurio_01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Naves\Naves 55\Naves\Naves\bin\x86\Debug\Content\Sprites\nave_mercurio_01.xnb</Output>
+      <Time>2011-11-28T22:35:11.1723374+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\explosion_nave_01.png</Source>
+      <Name>Sprites\explosion_nave_01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Naves\Naves 55\Naves\Naves\bin\x86\Debug\Content\Sprites\explosion_nave_01.xnb</Output>
+      <Time>2011-11-27T22:17:10.8933498+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\torre_triple_01.png</Source>
+      <Name>Sprites\torre_triple_01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Naves\Naves 55\Naves\Naves\bin\x86\Debug\Content\Sprites\torre_triple_01.xnb</Output>
+      <Time>2011-12-01T20:05:42.6825529+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\menu_torre_01.png</Source>
+      <Name>Menu\menu_torre_01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Naves\Naves 55\Naves\Naves\bin\x86\Debug\Content\Menu\menu_torre_01.xnb</Output>
+      <Time>2011-12-31T00:13:34.5919511+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\items_01.png</Source>
+      <Name>Menu\items_01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Naves\Naves 55\Naves\Naves\bin\x86\Debug\Content\Menu\items_01.xnb</Output>
+      <Time>2011-11-26T00:17:36.1752829+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\torre_disparos_01.png</Source>
+      <Name>Sprites\torre_disparos_01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Naves\Naves 55\Naves\Naves\bin\x86\Debug\Content\Sprites\torre_disparos_01.xnb</Output>
+      <Time>2011-12-03T11:01:13.7963408+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\torre_canon_01.png</Source>
+      <Name>Sprites\torre_canon_01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Naves\Naves 55\Naves\Naves\bin\x86\Debug\Content\Sprites\torre_canon_01.xnb</Output>
+      <Time>2011-12-02T22:20:18.7577865+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\explosion_canon_01.png</Source>
+      <Name>Sprites\explosion_canon_01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Naves\Naves 55\Naves\Naves\bin\x86\Debug\Content\Sprites\explosion_canon_01.xnb</Output>
+      <Time>2011-12-02T23:18:01.4908914+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\torre_disparos_canon_01.png</Source>
+      <Name>Sprites\torre_disparos_canon_01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Naves\Naves 55\Naves\Naves\bin\x86\Debug\Content\Sprites\torre_disparos_canon_01.xnb</Output>
+      <Time>2011-12-03T11:06:01.9388216+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\enemigo_disparo_hielo_01.png</Source>
+      <Name>Sprites\enemigo_disparo_hielo_01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Naves\Naves 55\Naves\Naves\bin\x86\Debug\Content\Sprites\enemigo_disparo_hielo_01.xnb</Output>
+      <Time>2011-12-03T16:17:37.718159+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\torre_disparos_hielo_01.png</Source>
+      <Name>Sprites\torre_disparos_hielo_01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Naves\Naves 55\Naves\Naves\bin\x86\Debug\Content\Sprites\torre_disparos_hielo_01.xnb</Output>
+      <Time>2011-12-09T01:59:39.8993031+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\torre_hielo_01.png</Source>
+      <Name>Sprites\torre_hielo_01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Naves\Naves 55\Naves\Naves\bin\x86\Debug\Content\Sprites\torre_hielo_01.xnb</Output>
+      <Time>2011-12-03T16:03:22.669253+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\nave_disparos_01.png</Source>
+      <Name>Sprites\nave_disparos_01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Naves\Naves 55\Naves\Naves\bin\x86\Debug\Content\Sprites\nave_disparos_01.xnb</Output>
+      <Time>2011-12-08T11:26:08.3797168+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\nave_disparos_misil_01.png</Source>
+      <Name>Sprites\nave_disparos_misil_01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Naves\Naves 55\Naves\Naves\bin\x86\Debug\Content\Sprites\nave_disparos_misil_01.xnb</Output>
+      <Time>2011-12-11T21:40:42.2096953+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\Sistema_Solar.jpg</Source>
+      <Name>Screens\Sistema_Solar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Naves\Naves 55\Naves\Naves\bin\x86\Debug\Content\Screens\Sistema_Solar.xnb</Output>
+      <Time>2011-12-11T04:31:26.9370289+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\mercurio_01.png</Source>
+      <Name>Screens\mercurio_01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Naves\Naves 55\Naves\Naves\bin\x86\Debug\Content\Screens\mercurio_01.xnb</Output>
+      <Time>2011-12-11T06:28:55.2861714+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\tierra_01.png</Source>
+      <Name>Screens\tierra_01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Naves\Naves 55\Naves\Naves\bin\x86\Debug\Content\Screens\tierra_01.xnb</Output>
+      <Time>2011-12-11T02:16:12.0998868+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\venus_01.png</Source>
+      <Name>Screens\venus_01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Naves\Naves 55\Naves\Naves\bin\x86\Debug\Content\Screens\venus_01.xnb</Output>
+      <Time>2011-12-11T02:16:25.4976531+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\marte_01.png</Source>
+      <Name>Screens\marte_01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Naves\Naves 55\Naves\Naves\bin\x86\Debug\Content\Screens\marte_01.xnb</Output>
+      <Time>2011-12-11T02:27:29.6706416+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\jupiter_01.png</Source>
+      <Name>Screens\jupiter_01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Naves\Naves 55\Naves\Naves\bin\x86\Debug\Content\Screens\jupiter_01.xnb</Output>
+      <Time>2011-12-11T03:11:58.2412751+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\saturno_01.png</Source>
+      <Name>Screens\saturno_01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Naves\Naves 55\Naves\Naves\bin\x86\Debug\Content\Screens\saturno_01.xnb</Output>
+      <Time>2011-12-11T03:42:37.6004804+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\urano_01.png</Source>
+      <Name>Screens\urano_01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Naves\Naves 55\Naves\Naves\bin\x86\Debug\Content\Screens\urano_01.xnb</Output>
+      <Time>2011-12-11T05:38:15.9113291+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\neptuno_01.png</Source>
+      <Name>Screens\neptuno_01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Naves\Naves 55\Naves\Naves\bin\x86\Debug\Content\Screens\neptuno_01.xnb</Output>
+      <Time>2011-12-11T04:42:05.3705452+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\nave_01.png</Source>
+      <Name>Screens\nave_01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Naves\Naves 55\Naves\Naves\bin\x86\Debug\Content\Screens\nave_01.xnb</Output>
+      <Time>2011-12-11T20:06:23.4998564+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\explosion_media_01.png</Source>
+      <Name>Sprites\explosion_media_01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Naves\Naves 55\Naves\Naves\bin\x86\Debug\Content\Sprites\explosion_media_01.xnb</Output>
+      <Time>2011-12-11T23:28:41.3908022+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\boton_mejorar_01.png</Source>
+      <Name>Menu\boton_mejorar_01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Naves\Naves 55\Naves\Naves\bin\x86\Debug\Content\Menu\boton_mejorar_01.xnb</Output>
+      <Time>2011-12-14T19:19:32.1224696+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\boton_vender_01.png</Source>
+      <Name>Menu\boton_vender_01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Naves\Naves 55\Naves\Naves\bin\x86\Debug\Content\Menu\boton_vender_01.xnb</Output>
+      <Time>2011-12-14T19:20:48.6568471+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\frame_01.png</Source>
+      <Name>Screens\frame_01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Naves\Naves 55\Naves\Naves\bin\x86\Debug\Content\Screens\frame_01.xnb</Output>
+      <Time>2011-12-15T22:50:55.3401733+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\icono_nave_disparos_01.png</Source>
+      <Name>Menu\icono_nave_disparos_01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Naves\Naves 55\Naves\Naves\bin\x86\Debug\Content\Menu\icono_nave_disparos_01.xnb</Output>
+      <Time>2011-12-17T17:13:42.6619829+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\torre_antiair_01.png</Source>
+      <Name>Sprites\torre_antiair_01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Naves\Naves 55\Naves\Naves\bin\x86\Debug\Content\Sprites\torre_antiair_01.xnb</Output>
+      <Time>2011-12-31T00:11:57.3569815+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\torre_disparos_misil_01.png</Source>
+      <Name>Sprites\torre_disparos_misil_01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Naves\Naves 55\Naves\Naves\bin\x86\Debug\Content\Sprites\torre_disparos_misil_01.xnb</Output>
+      <Time>2011-12-30T17:26:01.5347294+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\planeta_completado_01.png</Source>
+      <Name>Screens\planeta_completado_01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Naves\Naves 55\Naves\Naves\bin\x86\Debug\Content\Screens\planeta_completado_01.xnb</Output>
+      <Time>2012-01-16T21:13:37.5468832+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\CapaVictoria.png</Source>
+      <Name>Screens\CapaVictoria</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Naves\Naves 55\Naves\Naves\bin\x86\Debug\Content\Screens\CapaVictoria.xnb</Output>
+      <Time>2012-01-26T22:41:29.9437612+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\Victoria.jpg</Source>
+      <Name>Screens\Victoria</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Naves\Naves 55\Naves\Naves\bin\x86\Debug\Content\Screens\Victoria.xnb</Output>
+      <Time>2012-01-26T22:35:26.9950017+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Staff_Roll.mp3</Source>
+      <Name>Audio\Staff_Roll</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Naves\Naves 55\Naves\Naves\bin\x86\Debug\Content\Audio\Staff_Roll.xnb</Output>
+      <Extra>D:\Naves\Naves 55\Naves\Naves\bin\x86\Debug\Content\Audio\Staff_Roll.wma</Extra>
+      <Time>2011-09-08T17:20:58+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Title_Theme.mp3</Source>
+      <Name>Audio\Title_Theme</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Naves\Naves 55\Naves\Naves\bin\x86\Debug\Content\Audio\Title_Theme.xnb</Output>
+      <Extra>D:\Naves\Naves 55\Naves\Naves\bin\x86\Debug\Content\Audio\Title_Theme.wma</Extra>
+      <Time>2011-09-08T17:20:58+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Galaxy_Force.mp3</Source>
+      <Name>Audio\Galaxy_Force</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Naves\Naves 55\Naves\Naves\bin\x86\Debug\Content\Audio\Galaxy_Force.xnb</Output>
+      <Extra>D:\Naves\Naves 55\Naves\Naves\bin\x86\Debug\Content\Audio\Galaxy_Force.wma</Extra>
+      <Time>2004-02-01T15:08:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Game_Over.mp3</Source>
+      <Name>Audio\Game_Over</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Naves\Naves 55\Naves\Naves\bin\x86\Debug\Content\Audio\Game_Over.xnb</Output>
+      <Extra>D:\Naves\Naves 55\Naves\Naves\bin\x86\Debug\Content\Audio\Game_Over.wma</Extra>
+      <Time>2011-09-08T17:20:58+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Cyber_Star.mp3</Source>
+      <Name>Audio\Cyber_Star</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Naves\Naves 55\Naves\Naves\bin\x86\Debug\Content\Audio\Cyber_Star.xnb</Output>
+      <Extra>D:\Naves\Naves 55\Naves\Naves\bin\x86\Debug\Content\Audio\Cyber_Star.wma</Extra>
+      <Time>2011-08-05T16:19:16+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Stage_Clear.mp3</Source>
+      <Name>Audio\Stage_Clear</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Naves\Naves 55\Naves\Naves\bin\x86\Debug\Content\Audio\Stage_Clear.xnb</Output>
+      <Extra>D:\Naves\Naves 55\Naves\Naves\bin\x86\Debug\Content\Audio\Stage_Clear.wma</Extra>
+      <Time>2011-09-08T17:20:58+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Fuentes\Marcador.spritefont</Source>
+      <Name>Fuentes\Marcador</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Naves\Naves 55\Naves\Naves\bin\x86\Debug\Content\Fuentes\Marcador.xnb</Output>
+      <Time>2011-11-03T21:56:46.8403909+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fuentes\FrameRateCounter.spritefont</Source>
+      <Name>Fuentes\FrameRateCounter</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Naves\Naves 55\Naves\Naves\bin\x86\Debug\Content\Fuentes\FrameRateCounter.xnb</Output>
+      <Time>2011-11-04T02:14:49.2180357+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fuentes\MenuTorres.spritefont</Source>
+      <Name>Fuentes\MenuTorres</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Naves\Naves 55\Naves\Naves\bin\x86\Debug\Content\Fuentes\MenuTorres.xnb</Output>
+      <Time>2011-11-26T00:44:00.8926068+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fuentes\Torres.spritefont</Source>
+      <Name>Fuentes\Torres</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Naves\Naves 55\Naves\Naves\bin\x86\Debug\Content\Fuentes\Torres.xnb</Output>
+      <Time>2011-11-26T13:17:09.4712971+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fuentes\Tooltip.spritefont</Source>
+      <Name>Fuentes\Tooltip</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Naves\Naves 55\Naves\Naves\bin\x86\Debug\Content\Fuentes\Tooltip.xnb</Output>
+      <Time>2011-12-14T23:21:04.724399+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fuentes\SistemaSolarMed.spritefont</Source>
+      <Name>Fuentes\SistemaSolarMed</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Naves\Naves 55\Naves\Naves\bin\x86\Debug\Content\Fuentes\SistemaSolarMed.xnb</Output>
+      <Time>2011-12-15T23:24:28.6141932+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fuentes\MenuTorresArma.spritefont</Source>
+      <Name>Fuentes\MenuTorresArma</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Naves\Naves 55\Naves\Naves\bin\x86\Debug\Content\Fuentes\MenuTorresArma.xnb</Output>
+      <Time>2011-12-16T22:54:06.3058402+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fuentes\Waves.spritefont</Source>
+      <Name>Fuentes\Waves</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Naves\Naves 55\Naves\Naves\bin\x86\Debug\Content\Fuentes\Waves.xnb</Output>
+      <Time>2012-03-20T23:15:27.0974311+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\Naves\Naves 55\Naves\NavesContent\</RootDirectory>
+      <LoggerRootDirectory>D:\Naves\Naves 55\Naves\Naves\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\Naves\Naves 55\Naves\NavesContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\Naves\Naves 55\Naves\Naves\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-03-10T13:02:05.4322676+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
